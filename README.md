@@ -18,4 +18,4 @@ Final Results Link : https://github.com/saikrishnavadali05/SSSIHL-M.Tech.-CS-Adm
 
 ##### Screenshot
 
-!![alt text](http://url/to/img.png)
+!![test_result](https://github.com/saikrishnavadali05/SSSIHL-M.Tech.-CS-Admission-Test-/blob/master/Screenshot%20(208).png)
